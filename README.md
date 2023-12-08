@@ -2,7 +2,7 @@
 Assignment for Discrete Mathematics (SI220) - 1st year of college.
 
 <details>
-  <summary>[PT-BR]</summary>
+  <summary>Problem description [PT-BR]</summary>
 Há dois exércitos tentando atacar um castelo no centro de uma planície, O exército azul está ao sul e o exército vermelho está ao norte. A única possibilidade de vitória para os dois exércitos sobre o castelo é se eles atacarem ao mesmo tempo, para isso eles precisam sincronizar um horário para o ataque.
 
 O exército vermelho comanda o exército azul, então ele deve enviar o primeiro mensageiro definindo a hora do ataque.
@@ -31,3 +31,12 @@ O seu algoritmo deve exibir a timestamp de início da troca de mensagens, e a su
 O algoritmo deve exibir quanto tempo demorou a troca de mensagens(hh:mm:ss), quantos mensageiros foram utilizados de cada exército e se o exército perdeu a batalha.
 Deve-se utilizar um gerador randômico para o tempo de travessia do mensageiro, para a possibilidade de o castelo capturar um mensageiro e para a possibilidade do exército azul impossibilitar o horário escolhido pelo exército vermelho.
 </details>
+
+## Screenshots
+![1](https://github.com/SantanaCosta/Two-Generals-Problem/assets/106698124/59f34609-bdb7-49d2-8004-2d04dc88c91b)
+![2](https://github.com/SantanaCosta/Two-Generals-Problem/assets/106698124/12477454-506a-4cc1-930e-45613d14fd63)
+![3](https://github.com/SantanaCosta/Two-Generals-Problem/assets/106698124/b0bcdfcf-a6f5-4e70-9dff-0a1b1c835912)
+![4](https://github.com/SantanaCosta/Two-Generals-Problem/assets/106698124/92193ab7-3d9a-46d5-a52e-5c17acb14e7d)
+
+
+
